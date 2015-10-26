@@ -1,15 +1,13 @@
-**Reverse a string.**
+***The Basic Problem:***
 
-The Basic Problem:
-
-At first, start with just a single word:
+Reverse a single word:
 
 ```
 e.g.    input       hello
         output      olleh
 ```
 
-Some Variations:
+***Some Variations:***
 
 1. Now solve the problem with a recursive solution.
 
