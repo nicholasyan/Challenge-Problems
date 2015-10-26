@@ -8,7 +8,7 @@ Print the first ten numbers of the Fibonacci sequence separated by spaces.
 
 ***Some Variations:***
 
-1. Now solve the problem with a recursive solution.
+1. Print the *n*th term in the Fibonacci sequence recursively.
 
 2. [By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.](https://projecteuler.net/problem=2)
 
