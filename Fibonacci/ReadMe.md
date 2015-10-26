@@ -1,5 +1,3 @@
-**Fibonacci**
-
 ***The Basic Problem:***
 
 Print the first ten numbers of the Fibonacci sequence separated by spaces.
