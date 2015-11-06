@@ -88,7 +88,7 @@ bool check_ABBA(string word)
 				// 5. Regardless of whether we have found a valid substring or
 				//    not, we want to increment:
 				//
-				//	  IF NOT FOUND      we want to continue the search
+				//    IF NOT FOUND      we want to continue the search
 				//    IF FOUND          subtr_len is 0-based indexed so when
 				//                      we trim the word, we'll actually have
 				//                      to change it to 1-based indexed
