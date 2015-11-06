@@ -5,11 +5,11 @@ Write a program that prints out the steps to solve the Tower of Hanoi given some
 For example, for 3 disks:
 
 ```
-move disk 1 to rod 3
-move disk 2 to rod 2
-move disk 1 to rod 2
-move disk 3 to rod 3
-move disk 1 to rod 1
-move disk 2 to rod 3
-move disk 1 to rod 3
+move disk 1 from rod 1 to rod 3
+move disk 2 from rod 1 to rod 2
+move disk 1 from rod 3 to rod 2
+move disk 3 from rod 1 to rod 3
+move disk 1 from rod 2 to rod 1
+move disk 2 from rod 2 to rod 3
+move disk 1 from rod 1 to rod 3
 ```
