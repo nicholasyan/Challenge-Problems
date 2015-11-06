@@ -29,7 +29,7 @@ int main(int argc, char **argv)
 	cout << "Please enter a word:\n";
 	cin >> word;
 
-  	check_ABBA(word) ? cout << "ABBA form\n" : cout << "Not ABBA form\n";
+	check_ABBA(word) ? cout << "ABBA form\n" : cout << "Not ABBA form\n";
 
 	return 0;
 }
@@ -69,7 +69,7 @@ bool check_ABBA(string word)
 					return false;
 	
 				// 4. Now assume we have found a valid substring. Using the
- 			    //    substring length, check the substring at the beginning of
+				//    substring length, check the substring at the beginning of
 				//    the word to the one at the back, ensuring they are the
 				//    same
 
